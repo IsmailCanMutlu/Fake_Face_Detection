@@ -109,7 +109,7 @@
 
 Thank you for your contributions.
 
-- [@IsmailCanMutlu](https://github.com/IsmailCanMutlu)
+- [@osmantunahanincirkus](https://github.com/osmantunahanincirkus)
 
 ## License
 
